@@ -11,3 +11,6 @@ Frontend job portal built using only HTML5 and CSS3.
 ## Tech Stack
 - HTML5
 - CSS3
+
+## Live Demo
+👉 [View Live Project](https://hirereadyhtmlcss.vercel.app/)
